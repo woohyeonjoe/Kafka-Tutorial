@@ -1,0 +1,5 @@
+rootProject.name = 'simple-kafka'
+
+include 'domain'
+include 'core'
+include 'consumer'
